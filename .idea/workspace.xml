@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/venv/Include/demo/objvar.py" line="17" mnemonic="5" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b190e568-a98c-4240-b147-e245afe94fdd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,47 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CountWords.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/count/CountWords.py">
+      <file leaf-file-name="serialize.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/pickle/serialize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="104">
+              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/loginWeb/__init__.py">
+      <file leaf-file-name="jsonExample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/pickle/jsonExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="387">
+              <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1581773444/builtins.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Include/thread/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1066">
-              <caret line="517" column="26" selection-start-line="517" selection-start-column="20" selection-end-line="517" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Include/demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MsgHandle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/MsgHandle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state>
+              <caret selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -73,7 +58,11 @@
       <find>print</find>
       <find>posturl</find>
       <find>hosturl</find>
+      <find>sele</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,16 +76,23 @@
         <option value="$PROJECT_DIR$/venv/Include/search/searchContent.py" />
         <option value="$PROJECT_DIR$/venv/Include/count/CountWords.py" />
         <option value="$PROJECT_DIR$/venv/Include/loginWeb/__init__.py" />
+        <option value="$PROJECT_DIR$/venv/Include/demo/__init__.py" />
+        <option value="$PROJECT_DIR$/venv/Include/demo/objvar.py" />
+        <option value="$PROJECT_DIR$/venv/Include/demo/inherit.py" />
+        <option value="$PROJECT_DIR$/venv/Include/pickle/__init__.py" />
         <option value="$PROJECT_DIR$/venv/Include/demo.py" />
+        <option value="$PROJECT_DIR$/venv/Include/pickle/serialize.py" />
+        <option value="$PROJECT_DIR$/venv/Include/pickle/jsonExample.py" />
+        <option value="$PROJECT_DIR$/venv/Include/thread/__init__.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="670" />
-    <option name="y" value="119" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="827" />
     <option name="width" value="1400" />
-    <option name="height" value="985" />
+    <option name="height" value="969" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -126,7 +122,14 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="loginWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="pickle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,8 +152,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo">
-    <configuration name="CountWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.__init__ (1)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="example" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +161,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/count" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/thread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/count/CountWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/thread/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/pickle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/pickle/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,12 +202,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/demo.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="PARAMETERS" value="ad,12 45123,123adfa ljljlj adfalj afdladjflkj" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="findTxt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="jsonExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="example" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,17 +215,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/findTxt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/pickle" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/findTxt/findTxt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/pickle/jsonExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="searchContent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="serialize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="example" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,29 +233,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/pickle" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/search/searchContent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="verticalWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="example" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/vertical" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/vertical/verticalWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/pickle/serialize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,18 +245,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.demo" />
-      <item itemvalue="Python.findTxt" />
-      <item itemvalue="Python.verticalWords" />
-      <item itemvalue="Python.searchContent" />
-      <item itemvalue="Python.CountWords" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.jsonExample" />
+      <item itemvalue="Python.serialize" />
+      <item itemvalue="Python.__init__ (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.jsonExample" />
+        <item itemvalue="Python.serialize" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.demo" />
-        <item itemvalue="Python.CountWords" />
-        <item itemvalue="Python.searchContent" />
-        <item itemvalue="Python.verticalWords" />
-        <item itemvalue="Python.findTxt" />
       </list>
     </recent_temporary>
   </component>
@@ -271,14 +274,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="670" y="119" width="1400" height="985" extended-state="0" />
+    <frame x="827" y="0" width="1400" height="969" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6263911" visible="true" weight="0.2246696" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6263911" weight="0.20484582" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42739078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25421688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Favorites" sideWeight="0.37360892" side_tool="true" weight="0.24973656" />
@@ -293,10 +297,10 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.42739078" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.25421688" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6263911" visible="true" weight="0.2246696" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6263911" visible="true" weight="0.20484582" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -306,7 +310,7 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info id="Favorites" order="0" sideWeight="0.37360892" side_tool="true" weight="0.24973656" />
     </layout-to-restore>
@@ -316,6 +320,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/pickle/jsonExample.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -323,7 +334,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="34" />
+      <option name="time" value="37" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -450,28 +461,87 @@
     <entry file="file://$PROJECT_DIR$/venv/Include/count/CountWords.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/loginWeb/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/pickle/shoplist.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/demo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/demo/objvar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/demo/inherit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/pickle/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/dev/Python/Python36-32/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="183" column="40" selection-start-line="183" selection-start-column="34" selection-end-line="183" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/MsgHandle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1040">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/demo.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/pickle/serialize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+        <state relative-caret-position="104">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/pickle/jsonExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/thread/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
         </state>
       </provider>
     </entry>

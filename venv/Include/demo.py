@@ -57,7 +57,10 @@ print(printMax.__doc__)
 
 for i in sys.argv:
     print(i)
-print('===========')
 
 print(dir(sys))
 print(dir())
+
+print('===========')
+print(sys.argv[0])
+help(sys)
